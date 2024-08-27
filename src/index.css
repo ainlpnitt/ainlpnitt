@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* the navlink used in navbar adds an active class to the current link */
+.active
+{
+    color: aqua;
+}
+
+body {
+    background-color: #111827;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
